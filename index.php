@@ -12,7 +12,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h>New Project</h>
+    <h1>New Project</h1>
+    <h2>First line</h2>
 
 </body>
 </html>
